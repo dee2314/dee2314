@@ -26,12 +26,13 @@ Greetings! I go by Dee and am a self-proclaimed nerd, proudly believing in the p
 #### Bizness
 -  :email: deefullstack@gmail.com
   
+<details>
 
 #### GitHub Stats
 ![Dee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dee2314&hide=contribs,prs&show_icons=true&theme=shades-of-purple)
 
 
-<details>
+
 <summary>
   More things about me
 </summary>
