@@ -21,15 +21,11 @@ Greetings! I go by Dee and am a self-proclaimed nerd, proudly believing in the p
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
-<br />
-<br />
+
 
 #### Bizness
-- email: deefullstack@gmail.com
+-  :email: deefullstack@gmail.com
   
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dee2314.visitor-badge&left_color=green&right_color=red)
 
 #### GitHub Stats
 ![Dee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dee2314&hide=contribs,prs&show_icons=true&theme=shades-of-purple)
@@ -43,9 +39,5 @@ Greetings! I go by Dee and am a self-proclaimed nerd, proudly believing in the p
 <br >
 
 I advocate for underrepresented voices and promote equity for all across my various hobbies and talents. Coding is one aspect of my storytelling that feeds my commitment to prospering education access and representation of the silenced.
-
-
-
-
 
 </details>
