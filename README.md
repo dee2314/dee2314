@@ -1,3 +1,5 @@
+<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JtaXV4ZHFsZ3EyaG82a244d3B2dHl4a29xZnA4ZWt4b2I0eDJzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KchoIn92hvNdY6FSEd/giphy-downsized-large.gif">
+
 ## Hey, I'm Dee <img src= "https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt = "Wave" style = "float" width = "25px">
 
 Greetings! I go by Dee and am a self-proclaimed nerd, proudly believing in the power of code to transform the world into a more accessible and inclusive space
@@ -27,12 +29,6 @@ Greetings! I go by Dee and am a self-proclaimed nerd, proudly believing in the p
 -  :email: deefullstack@gmail.com
   
 <details>
-
-#### GitHub Stats
-![Dee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dee2314&hide=contribs,prs&show_icons=true&theme=shades-of-purple)
-
-
-
 <summary>
   More things about me
 </summary>
