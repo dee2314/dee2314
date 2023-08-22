@@ -1,4 +1,4 @@
-<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2eXdjdzNjZzl5N3EwdWJwazVidWduemtvamk5cmY5aDhtYXdyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46Fp9JSipTDNBLcwJL/giphy-downsized-large.gif" alt= "banner" style = "float" width = "1000px" height = "299px">
+<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c2eXdjdzNjZzl5N3EwdWJwazVidWduemtvamk5cmY5aDhtYXdyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46Fp9JSipTDNBLcwJL/giphy-downsized-large.gif" alt= "banner" style = "float" width = "1000px" height = "250px">
 
 ## Hey, I'm Dee <img src= "https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt = "Wave" style = "float" width = "25px">
 
