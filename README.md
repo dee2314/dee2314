@@ -6,6 +6,9 @@ Greetings! I go by Dee and am a self-proclaimed nerd, proudly believing in the p
 
 :mailbox: Say Hello!
 
+Visit [my website](https://dee-swe.netlify.app/) for more information!
+
+
  [![Linkedin Badge](https://img.shields.io/badge/-Dee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com) [![Mail Badge](https://img.shields.io/badge/-deefullstack-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:deefullstack@gmail.com)
 
 <!-- TODO: Add last video link -->
