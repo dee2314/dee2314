@@ -40,7 +40,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Javascript, SASS, HTML</strong> - An immersive African fine dining experience, showcasing stunning visuals and powered by cutting-edge web technologies</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
