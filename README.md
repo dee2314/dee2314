@@ -20,36 +20,6 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 - ⚡ Fun fact: I code by day, and take the stage by night
 
 
-<h1 align="center">Projects</h1>
-<table bordercolor="#8B52FF">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">JollofGood.com</h3>
-        <br />
-        <a target="_blank" href="https://jollof-good.netlify.app/">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG50bnNlcTU0aXV1OXZ1eGVnbnNuN3hqNHVyczg4NXU5ZWlzOWFjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gZc6R5jNzvlKM4zh3V/giphy.gif" width="100%" alt="Jollof Good Website"/>
-        </a>
-        <br />
-        <p align="center">
-      </p>
-        <p><strong>Javascript, SASS & HTML</strong> - An immersive African fine dining experience, showcasing stunning visuals and powered by cutting-edge web technologies</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Luxe Looks</h3>
-        <br />
-      <a target="_blank" href="https://luxe-looks.netlify.app/">
-            <img src="https://media.giphy.com/media/oZVok6fAYu8N0x6kPh/giphy.gif" width="100%"  alt="Luxe Looks Website "/>
-        </a>
-        <br />
-        <p align="center">
-
-      </p>
-        <p><strong>Javascript, SASS & HTML</strong> - Dynamic e-commerce website template, designed for seamless shopping experiences.</p>
-    </td>
-  </tr>
-  </table>
-
-
 
 <!-- TODO: Make technologies links takes you to repositories -->
 <h1 align ='center'>Technologies</h1>
