@@ -108,16 +108,16 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 <h1 align ='center'>Technologies</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=#8B52FF&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=#8B52FF&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=#905AFF&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=#9461FC&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=#9461FC&style=plastic&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=#9F70FE&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=#A479FC&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=#B18AFF&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=#B692FF&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=#BFA0FE&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=8B52FF&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=8B52FF&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=905AFF&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=9461FC&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=9461FC&style=plastic&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=9F70FE&style=plastic&logo=adobe"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=A479FC&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=B18AFF&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=B692FF&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=BFA0FE&style=plastic&logo=git"/>
 </p>
 
 
