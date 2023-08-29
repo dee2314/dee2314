@@ -128,7 +128,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 <details>
 
 <summary>
-  <h1>More things about me</h1>
+  <h2 align="center">More things about me</h2>
 </summary>
 
 <br >
