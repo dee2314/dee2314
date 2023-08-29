@@ -22,7 +22,6 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#8B52FF">
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">JollofGood.com</h3>
@@ -61,6 +60,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
         <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
   </tr>
+  </table>
 
 
 
