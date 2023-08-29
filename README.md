@@ -31,13 +31,6 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=8B52FF&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="\https://shawncharles.com/travelara" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=8B52FF&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
         <p><strong>Javascript, SASS & HTML</strong> - An immersive African fine dining experience, showcasing stunning visuals and powered by cutting-edge web technologies</p>
     </td>
@@ -49,13 +42,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=8B52FF&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=8B52FF&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+
       </p>
         <p><strong>Javascript, SASS & HTML</strong> - Dynamic e-commerce website template, designed for seamless shopping experiences.</p>
     </td>
