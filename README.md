@@ -123,7 +123,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 
 
 
-<h1>Bizzness</h1>
+<h1 align='center'>Bizzness</h1>
 -  :email: deefullstack@gmail.com
   
 <details>
