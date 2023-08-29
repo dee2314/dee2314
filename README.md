@@ -127,6 +127,10 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 -  :email: deefullstack@gmail.com
   
 <details>
+
+
+
+ 
 <summary>
   More things about me
 </summary>
