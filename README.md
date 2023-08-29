@@ -39,7 +39,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=8B52FF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, SASS, HTML</strong> - An immersive African fine dining experience, showcasing stunning visuals and powered by cutting-edge web technologies</p>
+        <p><strong>Javascript, SASS & HTML</strong> - An immersive African fine dining experience, showcasing stunning visuals and powered by cutting-edge web technologies</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Luxe Looks</h3>
@@ -57,7 +57,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=8B52FF&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Javascript, SASS & HTML</strong> - Dynamic e-commerce website template, designed for seamless shopping experiences.</p>
     </td>
   </tr>
   </table>
