@@ -21,14 +21,14 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 
 
 <h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
+<table bordercolor="#8B52FF">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">JollofGood.com</h3>
         <br />
-        <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://jollof-good.netlify.app/">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG50bnNlcTU0aXV1OXZ1eGVnbnNuN3hqNHVyczg4NXU5ZWlzOWFjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gZc6R5jNzvlKM4zh3V/giphy.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
