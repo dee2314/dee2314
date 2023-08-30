@@ -39,7 +39,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=9851F7&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://luxe-looks.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=9851F7&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=9851F7&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, CSS, & HTML </strong> - Luxe Looks: Elevate your shopping experience with a user-friendly e-commerce website, where style meets simplicity.</p>
