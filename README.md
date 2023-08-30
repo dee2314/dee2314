@@ -42,7 +42,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=9851F7&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, CSS, & HTML </strong> - Welcome to my restaurant website – an immersive culinary experience where I've harmonized unique UI design with user-friendly ease</p>
+        <p><strong>Javascript, CSS, & HTML </strong> Luxe Looks: Elevate your shopping experience with our user-friendly e-commerce website, where style meets simplicity.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Jollof Good</h3>
@@ -60,7 +60,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=9851F7&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, CSS & HTML</strong> - .</p>
+        <p><strong>Javascript, CSS & HTML</strong> - Welcome to my restaurant website – an immersive culinary experience where I've harmonized unique UI design with user-friendly ease.</p>
     </td>
   </tr>
   </tr>
