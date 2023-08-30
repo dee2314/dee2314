@@ -42,25 +42,25 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=9851F7&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, CSS, & HTML </strong> - Luxe Looks: Elevate your shopping experience with a user-friendly e-commerce website, where style meets simplicity.</p>
+        <p><strong>Javascript, CSS, & HTML </strong> - Welcome to my restaurant website – an immersive culinary experience where I've harmonized unique UI design with user-friendly ease</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">Jollof Good</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://jollof-good.netlify.app/#">
+            <img src="https://media.giphy.com/media/gZc6R5jNzvlKM4zh3V/giphy.gif" width="100%"  alt="Jollof Good Layout"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/dee2314/jollofgood" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=9851F7&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://jollof-good.netlify.app/#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=9851F7&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Javascript, CSS & HTML</strong> - .</p>
     </td>
   </tr>
   </tr>
