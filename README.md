@@ -83,6 +83,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=B18AFF&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=B692FF&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=BFA0FE&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=BFA0FE&style=plastic&logo=node"/>
 </p>
 
 
