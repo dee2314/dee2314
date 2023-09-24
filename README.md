@@ -75,6 +75,8 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=8B52FF&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=8B52FF&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=8B52FF&style=plastic&logo=sass"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=905AFF&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=905AFF&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=9461FC&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=9461FC&style=plastic&logo=wordpress"/>
