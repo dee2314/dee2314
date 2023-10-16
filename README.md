@@ -64,7 +64,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3 align="center">Dee-Swe.com</h3>
       <br />
         <a target="_blank" href="https://dee-swe.netlify.app/">
@@ -72,7 +72,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
         </a>
       <br />
         <p align="center">
-  <a href="" target="_blank">
+  <a href="PUT YOUR REPO LINK HERE" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=9851F7&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://dee-swe.netlify.app/" target="_blank">
