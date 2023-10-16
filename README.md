@@ -62,7 +62,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
       </p>
         <p><strong>Javascript, CSS & HTML</strong> - Welcome to my restaurant website – an immersive culinary experience where I've harmonized unique UI design with user-friendly ease.</p>
     </td>
-     <td width="50%" valign="top">
+     <td width="50%" valign="bottom">
       <h3 align="center">Jollof Good</h3>
         <br />
       <a target="_blank" href="https://jollof-good.netlify.app/#">
