@@ -23,14 +23,14 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 
 
 <h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
+<table bordercolor="9851F7">
   
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Luxe Looks</h3>
         <br />
-        <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="https://media.giphy.com/media/oZVok6fAYu8N0x6kPh/giphy.gif" width="100%" alt="E-Commerce Site"/>
+        <a target="_blank" href="https://luxe-looks.netlify.app/">
+            <img src="https://media.giphy.com/media/oZVok6fAYu8N0x6kPh/giphy.gif" width="100%" alt="E-commerce Site"/>
         </a>
         <br />
         <p align="center">
@@ -44,17 +44,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
       </p>
         <p><strong>Javascript, CSS, & HTML </strong> Luxe Looks: Elevate your shopping experience with our user-friendly e-commerce website, where style meets simplicity.</p>
     </td>
-   
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Jollof Good</h3>
-        <br />
-      <a target="_blank" href="https://jollof-good.netlify.app/#">
-            <img src="https://media.giphy.com/media/gZc6R5jNzvlKM4zh3V/giphy.gif" width="100%"  alt="Jollof Good Layout"/>
-        </a>
-        <br />
-        <p align="center">
-          
+        
   <a href="https://github.com/dee2314/jollofgood" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=9851F7&style=plastic&logo=github&logo-color=white"/>
   </a>
