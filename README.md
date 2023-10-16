@@ -62,25 +62,6 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
       </p>
         <p><strong>Javascript, CSS & HTML</strong> - Welcome to my restaurant website – an immersive culinary experience where I've harmonized unique UI design with user-friendly ease.</p>
     </td>
-     <td width="50%" valign="bottom">
-      <h3 align="center">Jollof Good</h3>
-        <br />
-      <a target="_blank" href="https://jollof-good.netlify.app/#">
-            <img src="https://media.giphy.com/media/gZc6R5jNzvlKM4zh3V/giphy.gif" width="100%"  alt="Jollof Good Layout"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/dee2314/jollofgood" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=9851F7&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://jollof-good.netlify.app/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=9851F7&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, CSS & HTML</strong> - Welcome to my restaurant website – an immersive culinary experience where I've harmonized unique UI design with user-friendly ease.</p>
-    </td>
-  </tr>
   
   <tr>
     <td width="50%" valign="top">
