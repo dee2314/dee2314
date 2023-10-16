@@ -23,14 +23,14 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 
 
 <h1 align="center">Projects</h1>
-<table bordercolor="9851F7">
+<table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Luxe Looks</h3>
         <br />
-        <a target="_blank" href="https://luxe-looks.netlify.app/">
-            <img src="https://media.giphy.com/media/oZVok6fAYu8N0x6kPh/giphy.gif" width="100%" alt="E-commerce Site"/>
+        <a target="_blank" href="https://shawncharles.com/travelara">
+            <img src="https://media.giphy.com/media/oZVok6fAYu8N0x6kPh/giphy.gif" width="100%" alt="E-Commerce Site"/>
         </a>
         <br />
         <p align="center">
@@ -47,7 +47,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Jollof Good</h3>
         <br />
-      <a target="_blank" href="https://jollof-good.netlify.app/#">
+      <a target="_blank" href= "https://jollof-good.netlify.app/# ">
             <img src="https://media.giphy.com/media/gZc6R5jNzvlKM4zh3V/giphy.gif" width="100%"  alt="Jollof Good Layout"/>
         </a>
         <br />
@@ -56,34 +56,52 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
   <a href="https://github.com/dee2314/jollofgood" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=9851F7&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://jollof-good.netlify.app/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=9851F7&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, CSS & HTML</strong> - Welcome to my restaurant website – an immersive culinary experience where I've harmonized unique UI design with user-friendly ease.</p>
-    </td>
-     <td width="50%" valign="bottom">
-      <h3 align="center">Jollof Good</h3>
-        <br />
-      <a target="_blank" href="https://jollof-good.netlify.app/#">
-            <img src="https://media.giphy.com/media/gZc6R5jNzvlKM4zh3V/giphy.gif" width="100%"  alt="Jollof Good Layout"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/dee2314/jollofgood" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=9851F7&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://jollof-good.netlify.app/#" target="_blank">
+  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=9851F7&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, CSS & HTML</strong> - Welcome to my restaurant website – an immersive culinary experience where I've harmonized unique UI design with user-friendly ease.</p>
     </td>
   </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ShawnCharles.com</h3>
+      <br />
+        <a target="_blank" href="https://shawncharles.com">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://shawncharles.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Matching Cards</h3>
+        <br />
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td>
   </tr>
 </table>
-
 
 
 
