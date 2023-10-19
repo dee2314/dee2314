@@ -2,7 +2,7 @@
 
 ## Hey, I'm Dee <img src= "https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt = "Wave" style = "float" width = "25px">
 
-Greetings! I go by Dee and am a self-proclaimed nerd, proudly believing in the power of code to transform the world into a more accessible and inclusive space
+Greetings! I go by Dee and am a self-proclaimed nerd, proudly believing in the power of code to transform the world into a more accessible and inclusive space.
 
 :mailbox: Say Hello!
 
