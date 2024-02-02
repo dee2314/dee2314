@@ -12,8 +12,6 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
  [![Linkedin Badge](https://img.shields.io/badge/-Dee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com) [![Mail Badge](https://img.shields.io/badge/-deefullstack-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:deefullstack@gmail.com)
 
 
-
-- 🔭 I’m currently working as a freelance software engineer
 - :computer: Most used line of code `"git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with open source projects and contributions
 - 📫 How to reach me: deefullstack@gmail.com
