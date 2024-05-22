@@ -18,7 +18,6 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 
 
 
-
 <h1 align="center">Projects</h1>
 <table bordercolor="9851F7">
   
