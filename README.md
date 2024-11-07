@@ -2,7 +2,7 @@
 
 ## Hey, I'm Dee <img src= "https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" alt = "Wave" style = "float" width = "25px">
 
-Greetings! I'm Dee, a self-proclaimed nerd. I believe in the transformative potential of code to create a more accessible and inclusive world. I focus on excelling in customer service and contributing to societal betterment through client relationships. I leverage my background in technical writing, troubleshooting, and customer interactionl.
+Greetings! I’m Dee, a tech enthusiast dedicated to customer success. I believe in using technology to build a more inclusive world, and I bring experience in technical writing, troubleshooting, and client relationships to create impactful, user-focused solutions.
 
 :mailbox: Say Hello!
 
