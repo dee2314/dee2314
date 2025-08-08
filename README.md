@@ -6,7 +6,6 @@ Greetings! I’m Dee, a tech enthusiast dedicated to customer success. I believe
 
 :mailbox: Say Hello!
 
-
 Visit [my website](https://dee-swe.netlify.app/) for more information
 
 
