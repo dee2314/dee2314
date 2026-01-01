@@ -15,7 +15,7 @@ Visit [my website](https://dee-swe.netlify.app/) for more information!
 - :computer: Most used line of code `"git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with open source projects and contributions
 - 📫 How to reach me: deefullstack@gmail.com
-- ⚡ Fun fact: I code by day, and take the stage by night!
+- ⚡ Fun fact: I code by day, and take the stage by night!!
 
 
 
