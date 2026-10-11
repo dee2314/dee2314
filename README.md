@@ -58,23 +58,7 @@ Greetings! I’m Dee, a tech enthusiast dedicated to client success. I believe i
 
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Dee-Swe.com</h3>
-      <br />
-        <a target="_blank" href="https://dee-swe.netlify.app/">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNxZjltM2tycHZ6NjNhMzgyZXRtbWwzbW5uYzdiaDV4N2Yzbmd0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0yNa0CgzJHBLsz6x3/giphy.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/dee2314/Portfolio2023" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=9851F7&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://dee-swe.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=9851F7&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, React, Node.js, Framer-Motion </strong> - My awesome portfolio site not only showcases my projects but also offers ways to connect with me. </p>
-    </td>
+   
   </tr>
 </table>
 
